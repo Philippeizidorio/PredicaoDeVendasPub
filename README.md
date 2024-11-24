@@ -78,7 +78,7 @@ Para usar este código, siga estas etapas:
 
 3. Execute o código para carregar o conjunto de dados, tratamentos, treinar os modelos e gerar métricas de desempenho e visualizações;
 
-4. Insira os parâmetros desejados para realizar a previsão de vendas com base nos investimentos.
+4. Insira os parâmetros desejados para realizar a previsão de vendas.
 
 ### ◾ Tecnologias Utilizadas: 
 <div <br> 
