@@ -40,7 +40,7 @@ Após ter importado a base, trabalhamos no entendimento dos dados, realizamos ve
 
 `Sales`: Valor das vendas. **Variável target*
 
-### ◾Correlação entre as variáveis com 'Price'(Pairplot):
+### ◾Correlação entre as variáveis com 'Sales'(Pairplot):
 
 
 <p align="center">
@@ -51,7 +51,7 @@ Após ter importado a base, trabalhamos no entendimento dos dados, realizamos ve
 </p>
 
 
-### ◾Correlação entre as variáveis com 'Price'(Heatmap):
+### ◾Correlação entre as variáveis com 'Sales'(Heatmap):
 
 
 <p align="center">
@@ -78,7 +78,7 @@ Para usar este código, siga estas etapas:
 
 3. Execute o código para carregar o conjunto de dados, tratamentos, treinar os modelos e gerar métricas de desempenho e visualizações;
 
-4. Insira os parâmetros desejados para realizar a previsão de preços dos imóveis.
+4. Insira os parâmetros desejados para realizar a previsão de vendas com base nos investimentos.
 
 ### ◾ Tecnologias Utilizadas: 
 <div <br> 
