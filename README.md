@@ -48,6 +48,7 @@ Após ter importado a base, trabalhamos no entendimento dos dados, realizamos ve
 </p>
 
 <p align="center">
+   As variáveis que possuem uma maior linearidade com 'Sales' são as da posição 1 e 2.
 </p>
 
 
